@@ -1,24 +1,23 @@
-.App {
-  text-align: center;
+.table-wrapper{
+  overflow: auto;
+  margin: 5rem auto;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+.react-bs-table-container{
+      margin: 3rem;
 }
 
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
+.toolbar{
+  margin: 2rem auto;
+}
+.toolbar .col{
+    display: flex;
+        align-items: center;
 }
 
-.App-intro {
-  font-size: large;
+.toolbar .col *{
+  margin-right: 1rem;
 }
-
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+.loading{
+    display: inline-block;
 }

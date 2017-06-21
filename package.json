@@ -3,10 +3,20 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
     "cors-anywhere": "^0.4.0",
+    "fixed-data-table": "^0.6.4",
+    "lodash": "^4.17.4",
     "neto": "0.0.2",
     "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react-addons-create-fragment": "^15.6.0",
+    "react-addons-css-transition-group": "^15.6.0",
+    "react-addons-transition-group": "^15.6.0",
+    "react-bootstrap-table": "^3.4.1",
+    "react-dom": "^15.6.1",
+    "react-loading": "^0.1.4",
+    "reactstrap": "^4.6.2",
+    "request-promise-any": "^1.0.4"
   },
   "devDependencies": {
     "react-scripts": "1.0.7"
